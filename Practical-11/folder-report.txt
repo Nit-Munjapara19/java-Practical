@@ -1,0 +1,10 @@
+FOLDER TREE REPORT
+==================
+Name: log1.txt
+Size: 50 bytes
+Modified: 2026-10-27T08:29:38.4160066Z
+------------------
+Name: log2.txt
+Size: 52 bytes
+Modified: 2026-10-27T08:29:38.4170198Z
+------------------
